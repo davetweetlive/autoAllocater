@@ -1,0 +1,35 @@
+{
+Name:Pappu Kumar Pandey
+uname:ppande
+pwd:qwerty
+Age:25
+Sex:M
+}
+{
+Name:Irak Rigia
+uname:irakr
+pwd:openup
+Age:25
+Sex:M
+}
+{
+Name:Namah Srestha
+uname:zim95
+pwd:abcdef
+Age:25
+Sex:M
+}
+{
+Name:Divya
+uname:rdivya
+pwd:bnm
+Age:30
+Sex:F
+}
+{
+Name:Sneha
+uname:mesneha
+pwd:mnbv
+Age:24
+Sex:F
+}
